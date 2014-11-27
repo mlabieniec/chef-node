@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sgentle/chef-node.git"
+    "url": "https://github.com/mlabieniec/chef-node.git"
   },
   "keywords": [
     "api",
@@ -37,6 +37,9 @@
     {
       "name": "Nathan L Smith",
       "email": "nlloyds@gmail.com"
+    },
+      "name": "Michael Labieniec",
+      "email": "michaellabieniec@gmail.com"
     }
   ],
   "scripts": {
